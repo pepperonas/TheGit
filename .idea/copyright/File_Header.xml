@@ -1,0 +1,8 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="allowReplaceRegexp" value="User" />
+    <option name="keyword" value="User" />
+    <option name="notice" value="Changed: &amp;#36;{today.year}.&amp;#36;{today.month}.&amp;#36;{today.day} &amp;#36;{today.hour}:&amp;#36;today.minute:&amp;#36;today.second&#10;User: &amp;#36;username&#10;File: &amp;#36;file.fileName" />
+    <option name="myName" value="File Header" />
+  </copyright>
+</component>
